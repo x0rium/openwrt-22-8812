@@ -83,4 +83,7 @@ If make return error try use `-j1` and read this manual one more time or use `ma
 
 Good luck!
 
+Donations BTC: 3CL6LvEjTXhsa6TPt6qmtm4Rq7jrA7FYHD
+
+
 
