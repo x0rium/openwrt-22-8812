@@ -2,7 +2,7 @@
 
 Openwrt with rtl8812au-ac drivers with support AP.
 
-# rtl8812au-ac
+## rtl8812au-ac
 
 Drivers rtl8812au-ac with `hostapd` 5ghz support from https://github.com/immortalwrt/immortalwrt
 
