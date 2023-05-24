@@ -75,11 +75,11 @@ Congrats!
 
 ## Troubles
 
-If you are exit from container `./owrtbuild attach`
-If want to clean all and to try one more time `./owrtbuild attach cleanup`
-If you want clear docker enviroment use `docker system prune` this command clean unsed things %)
+- If you are exit from container `./owrtbuild attach`
+- If want to clean all and to try one more time `./owrtbuild attach cleanup`
+- If you want clear docker enviroment use `docker system prune` this command clean unsed things %)
 
-If make return error try use `-j1` and read this manual one more time or use `make clean` change config by command `make menuconfig`
+- If make return error try use `-j1` and read this manual one more time or use `make clean` change config by command `make menuconfig`
 
 Good luck!
 
