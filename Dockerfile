@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:jammy-20230425
 
 # system base packages + build dependencies + user setup ~350MB
 RUN set -xe \
